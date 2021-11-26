@@ -13,9 +13,9 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
-~~~
-<!DOCTYPE html>
+ ### Code
+ ~~~
+ <!DOCTYPE html>
 <html>
  <head>
  <title>BIO</title>
@@ -45,43 +45,52 @@ bgcolor="yellow">
  </tr>
  <tr>
  <td><em>Monday</em></td>
- <td colspan="2">EVS</td>
- <td colspan="2">Python Lab</td>
- <td colspan="2">Linear Algebra</td>
+ <td colspan="2">19MC802/Vijaya K.S</td>
+ <td colspan="2">19MA221/Jaba Jasphin E.T</td>
+ <td colspan="2">19MA220/Jaba Jasphin E.T</td>
  </tr>
  <tr>
  <td><em>Tuesday</em></td>
- <td colspan="2">Web technology Lab</td>
- <td colspan="2">Mechanics</td>
- <td colspan="2">Mechanics Lab</td>
+ <td colspan="2">19AI402/Karthi Govindharaju</td>
+ <td colspan="2">19AI303/Ram G.R</td>
+ <td colspan="2">19AI302/Ram G.R</td>
  </tr>
  <tr>
  <td><em>Wednesday</em></td>
- <td colspan="2">Web technology</td>
- <td colspan="2">Python Lab</td>
+ <td colspan="2">19AI401/Karthi Govindharaju</td>
+ <td colspan="2">19MA220/Jaba Jasphin E.T</td>
  <td align="center">-</td>
  <td align="center">-</td>
  </tr
  <tr>
  <td><em>Thursday</em></td>
- <td colspan="2">Mechanics Lab</td>
- <td colspan="2">Python Lab</td>
- <td colspan="2">Mechanics</td>
+ <td colspan="2">19AI302/Ram G.R</td>
+ <td colspan="2">19AI301/Jaba Jasphin E.T</td>
+ <td colspan="2">19AI303/Ram G.R</td>
  </tr>
  <tr>
  <td><em>Friday</em></td>
- <td colspan="2">Web technology Lab</td>
- <td colspan="2">Python Lab</td>
- <td colspan="2">System of Logics and terminalogies</td>
+ <td colspan="2">19AI401/Karthi Govindharaju</td>
+ <td colspan="2">19AI301/Jaba Jasphin E.T</td>
+ <td colspan="2">19EY703/Naresh.G</td>
  </tr>
  </table>
  </body>
 <body>
-    <title>Bio-Data and Info</title>
+    <h1>List of Subjects</h1>
+    <ol type="l">
+    <li>19MC802-Environmental Science</li>
+    <li>19MA221-Python Lab</li>
+    <li>19MA220-Linear Algebra</li>
+    <li>19AI401-Web Technology</li>
+    <li>19AI402-Web Technology Lab</li>
+    <li>19AI303-Mechanics</li>
+    <li>19AI302-Mechanics Lab</li>
+    <li>19EY703-System of Numericals and Logics</li>
 </body>
 </html>
 ~~~
-# OUPUT
+### OUPUT
 <!DOCTYPE html>
 <html>
  <head>
@@ -112,38 +121,47 @@ bgcolor="yellow">
  </tr>
  <tr>
  <td><em>Monday</em></td>
- <td colspan="2">EVS</td>
- <td colspan="2">Python Lab</td>
- <td colspan="2">Linear Algebra</td>
+ <td colspan="2">19MC802/Vijaya K.S</td>
+ <td colspan="2">19MA221/Jaba Jasphin E.T</td>
+ <td colspan="2">19MA220/Jaba Jasphin E.T</td>
  </tr>
  <tr>
  <td><em>Tuesday</em></td>
- <td colspan="2">Web technology Lab</td>
- <td colspan="2">Mechanics</td>
- <td colspan="2">Mechanics Lab</td>
+ <td colspan="2">19AI402/Karthi Govindharaju</td>
+ <td colspan="2">19AI303/Ram G.R</td>
+ <td colspan="2">19AI302/Ram G.R</td>
  </tr>
  <tr>
  <td><em>Wednesday</em></td>
- <td colspan="2">Web technology</td>
- <td colspan="2">Python Lab</td>
+ <td colspan="2">19AI401/Karthi Govindharaju</td>
+ <td colspan="2">19MA220/Jaba Jasphin E.T</td>
  <td align="center">-</td>
  <td align="center">-</td>
  </tr
  <tr>
  <td><em>Thursday</em></td>
- <td colspan="2">Mechanics Lab</td>
- <td colspan="2">Python Lab</td>
- <td colspan="2">Mechanics</td>
+ <td colspan="2">19AI302/Ram G.R</td>
+ <td colspan="2">19AI301/Jaba Jasphin E.T</td>
+ <td colspan="2">19AI303/Ram G.R</td>
  </tr>
  <tr>
  <td><em>Friday</em></td>
- <td colspan="2">Web technology Lab</td>
- <td colspan="2">Python Lab</td>
- <td colspan="2">System of Logics and terminalogies</td>
+ <td colspan="2">19AI401/Karthi Govindharaju</td>
+ <td colspan="2">19AI301/Jaba Jasphin E.T</td>
+ <td colspan="2">19EY703/Naresh.G</td>
  </tr>
  </table>
  </body>
 <body>
-    <title>Bio-Data and Info</title>
+    <h1>List of Subjects</h1>
+    <ol type="l">
+    <li>19MC802-Environmental Science</li>
+    <li>19MA221-Python Lab</li>
+    <li>19MA220-Linear Algebra</li>
+    <li>19AI401-Web Technology</li>
+    <li>19AI402-Web Technology Lab</li>
+    <li>19AI303-Mechanics</li>
+    <li>19AI302-Mechanics Lab</li>
+    <li>19EY703-System of Numericals and Logics</li>
 </body>
 </html>
